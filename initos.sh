@@ -1,3 +1,5 @@
+#!/bin/sh
+
 echo "LC_ALL=en_US.UTF-8" >> /etc/environment
 echo "LANG=en_US.utf8" >> /root/.bash_profile
 
